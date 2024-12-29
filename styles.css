@@ -16,7 +16,7 @@ body {
   
   h1 {
     font-family: 'Breeze Personal Use', Arial, sans-serif;
-    font-size: 60px;
+    font-size: 4rem;
     font-weight: 100;
     text-transform: capitalize;
     color: rgb(73, 34, 9);
@@ -27,7 +27,7 @@ body {
   
   h2 {
     font-family: 'Breeze Personal Use', Arial, sans-serif;
-    font-size: 30px;
+    font-size: 2rem;
     font-weight: 100;
     text-transform: capitalize;
     color: rgb(73, 34, 9);
