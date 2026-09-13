@@ -8,8 +8,6 @@ A single-page, responsive cafe menu built with plain HTML & CSS. This was my fir
 
 [View the live menu](https://mukkiecookie.github.io/Cafe-Menu/)
 
-*(Enable this by turning on GitHub Pages in repo Settings → Pages, see below.)*
-
 ## ✨ Features
 
 - Clean, card-style menu layout with rounded corners and a soft drop shadow
