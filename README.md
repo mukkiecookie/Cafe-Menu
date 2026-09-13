@@ -6,7 +6,9 @@ A single-page, responsive cafe menu built with plain HTML & CSS. This was my fir
 
 ## 🔗 Live Demo
 
-[View the live menu](https://mukkiecookie.github.io/Cafe-Menu/cafe_menu.html)
+[View the live menu](https://mukkiecookie.github.io/Cafe-Menu/)
+
+*(Enable this by turning on GitHub Pages in repo Settings → Pages, see below.)*
 
 ## ✨ Features
 
@@ -26,12 +28,17 @@ A single-page, responsive cafe menu built with plain HTML & CSS. This was my fir
 
 ```
 Cafe-Menu/
-├── cafe_menu.html      # main page markup
-├── styles.css           # all styling + font-face declarations
-├── fonts/                # custom .ttf fonts used in the design
-├── coffee.png            # coffee section icon
-├── cake.png               # desserts section icon
-├── coffee-5417663.svg     # background pattern
+├── index.html               # main page markup
+├── css/
+│   └── styles.css            # all styling + font-face declarations
+├── assets/
+│   ├── fonts/                 # custom .ttf fonts used in the design
+│   └── images/
+│       ├── coffee.png          # coffee section icon
+│       ├── cake.png             # desserts section icon
+│       └── coffee-5417663.svg   # background pattern
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
@@ -42,7 +49,7 @@ No build step needed — it's static HTML/CSS.
 ```bash
 git clone https://github.com/mukkiecookie/Cafe-Menu.git
 cd Cafe-Menu
-open cafe_menu.html   # or just double-click the file
+open index.html   # or just double-click the file
 ```
 
 ## 📖 What I Learned
